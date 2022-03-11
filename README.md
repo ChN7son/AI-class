@@ -1,7 +1,7 @@
-# PANDA學習
+# Pandas學習
 網址:
 
-[Panda](https://github.com/chengen19133/AI-class/blob/main/PANDA_2022_03_11.ipynb)
+[Pandas](https://github.com/chengen19133/AI-class/blob/main/PANDA_2022_03_11.ipynb)
 
 # Numpy學習
 網址:
